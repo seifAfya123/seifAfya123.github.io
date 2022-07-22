@@ -1,0 +1,21 @@
+{
+    "title":"title",
+    "hello":"hello",
+    "name":"name",
+    "aboutMe":"aboutMe",
+    "home":"HOME",
+    "about":"ABOUT",
+    "work":"WORK",
+    "skills":"SKILLS",
+    "testo":"TESTIMONIALS",
+    "contact":"CONTACT",
+    "email":"email",
+    "phone":"phone",
+    "address":"address",
+    "status":"status",
+    "myservices":"myservices",
+    "myservicesDes":"myservicesDes",
+    "aboutme":"I'm an Egyptian Software Engineer, Team Leader, Member at Institute of Electrical and Electronics Engineers (IEEE), Author, Public Speaker, Youtuber and GDG (Google Developers Group) Leader. I have +2 years writing code and worked in both web and mobile development. Now, I focus on building Android and IOS apps (plus websites) using Flutter and Dart. I'm working as a freelancer in building mobile apps. In addition to that, I build Artificial intelligence (AI) & machine learning (ML) projects using Python , Tensor Flow and Siket Learn and integrate all of them in flutter applilcations."
+
+
+}
